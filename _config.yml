@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Elizabeth (Beth) M. Prior, Ph.D."
   pronouns         : "she/her"  
   bio              : "Remote Sensing Scientist | Geospatial Data Scientist | Water Resources Engineer | Earth Observation, GIS & River Modeling"
