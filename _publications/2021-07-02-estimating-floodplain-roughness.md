@@ -1,6 +1,7 @@
 ---
 title: "Estimating Floodplain Vegetative Roughness Using Drone-Based Laser Scanning and Structure from Motion Photogrammetry"
 collection: publications
+category: manuscripts
 permalink: /publication/estimating-floodplain-roughness
 excerpt: "One-sentence summary of the paper."
 date: 2021-07-02
