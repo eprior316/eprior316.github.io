@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Elizabeth (Beth) M. Prior"
+title: "Elizabeth (Beth) M. Prior, Ph.D."
 author_profile: true
 redirect_from: 
   - /about/
