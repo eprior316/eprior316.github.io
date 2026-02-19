@@ -33,7 +33,7 @@ author:
   email            : "eprior@vt.edu" 
 
   # Academic websites
-  academia         : "https://www.bse.vt.edu/about/people/grad-students/elizabeth-prior.html"
+  academia         : #"https://www.bse.vt.edu/about/people/grad-students/elizabeth-prior.html"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=kAN1rKEAAAAJ&hl=en&oi=sra"
   inspire-hep      : # URL
