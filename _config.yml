@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Elizabeth M. Prior"
 title_separator          : "-"
 name                     : &name "Elizabeth (Beth) M. Prior"
@@ -29,7 +29,7 @@ author:
   pronouns         : "she/her/hers"  
   bio              : "Remote Sensing Scientist | Geospatial Data Scientist | Water Resources Engineer | Earth Observation, GIS & River Modeling"
   location         : "New Haven, CT, USA"
-  employer         : "TESTING Open to Industry & Research Roles"
+  employer         : "Open to Industry & Research Roles"
   uri              : # URL
   email            : "eprior@vt.edu" 
 
