@@ -17,6 +17,9 @@ $link-dark                  : mix(#000, $link, 25%);
 $link-light                 : mix(#fff, $link, 25%);
 $footer                     : $primary-color;
 
+$border                    : mix(#000, $background, 20%);
+$border-dark               : mix(#000, $background, 30%);
+
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
 $info-color                 : #2f7f93;
@@ -39,8 +42,8 @@ $sidebar-screen-min-width   : 1024px;
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$footer};
-    --global-border-color               : #{$light-primary-color};
-    --global-dark-border-color          : #{$background-light};
+    --global-border-color               : #{$border}; /*#{$light-primary-color};*/
+    --global-dark-border-color          : #{$border-dark}; /*#{$background-light};*/
     --global-code-background-color      : #fafafa;
     --global-code-text-color            : #{$darker-primary-color};
     --global-fig-caption-color          : #{$light-primary-color};
