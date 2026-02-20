@@ -7,5 +7,6 @@ permalink: /publication/TSS-high-levels
 date: 2020-09-07
 venue: "Drones"
 paperurl: "https://doi.org/10.3390/drones4030054"
-citation: 'Prior, Elizabeth M., Frances C. O’Donnell, Christian Brodbeck, Wesley N. Donald, George Brett Runion, and Stephanie L. Shepherd. "Measuring high levels of total suspended solids and turbidity using small unoccupied aerial systems (sUAS) multispectral imagery." Drones 4, no. 3 (2020): 54. https://doi.org/10.3390/drones4030054'
+citation: '**Prior, Elizabeth M.**, Frances C. O’Donnell, Christian Brodbeck, Wesley N. Donald, George Brett Runion, and Stephanie L. Shepherd. "Measuring high levels of total suspended solids and turbidity using small unoccupied aerial systems (sUAS) multispectral imagery." *Drones* 4, no. 3 (2020): 54. https://doi.org/10.3390/drones4030054'
+
 ---
