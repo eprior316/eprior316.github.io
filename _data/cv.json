@@ -33,29 +33,20 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Virginia Tech",
+      "area": "Ph.D in Biological Systems Engineering | Remote Sensing Interdisciplinary Graduate Education Program",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "December 2025",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Auburn University",
+      "area": "B.S. in Civil Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2019",
       "gpa": null,
       "courses": []
     }
