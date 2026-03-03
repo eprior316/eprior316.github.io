@@ -22,12 +22,12 @@ Education
   * Undergraduate Research Advisor: <a href="https://eng.auburn.edu/directory/fco0002" target="_blank">Frances O'Donnell</a>
   * Honors: *Summa cum laude*
 
-Work experience
+Work Experience
 ======
 * 2019 - 2025: Graduate Research Assistant
   * Virginia Tech, Biological Systems Engineering
 
- * 2019 - 2025: Ph.D. Research Fellow
+* 2019 - 2025: Ph.D. Research Fellow
   * Virginia Tech, Interdisciplinary Graduate Education Program in Remote Sensing
 
 * 2020 - 2025: <a href="https://www.nsfgrfp.org/" target="_blank">NSF GRFP</a> Fellow
@@ -54,7 +54,7 @@ Work experience
 
 * 2018: NSF REU Researcher
   * Texas A&M University
-  * <a href="https://costaricareu.tamu.edu/" target="_blank">Program title: Ecohydrology of Tropical Montane Forests – Diversity in Science, Interdisciplinary Breadth, and Global Awareness</a>
+  * Program title: <a href="https://costaricareu.tamu.edu/" target="_blank">Ecohydrology of Tropical Montane Forests – Diversity in Science, Interdisciplinary Breadth, and Global Awareness</a>
 
 * 2017: Undergraduate Research Assistant
   * Auburn University, Civil & Environmental Engineering
@@ -98,6 +98,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * Currently signed in to 43 different slack teams
