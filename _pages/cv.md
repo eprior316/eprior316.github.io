@@ -11,9 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Biological Systems Engineering, Virginia Tech, 2025
+  * Interdisciplinary Graduate Education Program in Remote Sensing at Virginia Tech
+  * Dissertation: <a href="https://vtechworks.lib.vt.edu/items/006e77b8-e106-4b34-952a-b74dffff25bb" target="_blank">Remote sensing for geomorphic and hydrodynamic modeling and process understanding</a>
+* Remote Sensing Certificate, Virginia Tech Graduate Certificate Program, 2022
+* Geospatial Information Technology Certificate, Virginia Tech Graduate Certificate Program, 2021
+* B.S. in Civil Engineering, Auburn University, 2019
+  * Focus in Water Resources
 
 Work experience
 ======
