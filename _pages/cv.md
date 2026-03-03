@@ -24,51 +24,51 @@ Education
 
 Work experience
 ======
-* 2019 - 2025 | Graduate Research Assistant
+* 2019 - 2025: Graduate Research Assistant
   * Virginia Tech, Biological Systems Engineering
 
- * 2019 - 2025 | Ph.D. Research Fellow
+ * 2019 - 2025: Ph.D. Research Fellow
   * Virginia Tech, Interdisciplinary Graduate Education Program in Remote Sensing
 
-* 2020 - 2025 | <a href="https://www.nsfgrfp.org/" target="_blank">NSF GRFP</a> Fellow
+* 2020 - 2025: <a href="https://www.nsfgrfp.org/" target="_blank">NSF GRFP</a> Fellow
   * Virginia Tech, Biological Systems Engineering
  
-* 2025 | Ph.D. Research Intern
+* 2025: Ph.D. Research Intern
   * NASA Jet Propulsion Laboratory, Earth Science, <a href="https://science.jpl.nasa.gov/division/earth-science/water-and-ecosystems/" target="_blank">Water & Ecosystems Group</a>
   * Maximizing Student Potential in STEM Program
   * Funded by <a href="https://www.nsf.gov/eng/intern" target="_blank">NSF INTERN Program</a>
 
-* 2021 | Ph.D. Research Intern
+* 2021: Ph.D. Research Intern
   * Los Alamos National Laboratory, Earth and Environmental Sciences Division
   * <a href="https://education.ornl.gov/suli/" target="_blank">DOE SULI Program</a>
 
-* 2019 | Undergraduate Research Fellow
+* 2019: Undergraduate Research Fellow
   * Auburn University, Office of Undergraduate Research
  
-* 2018 | Undergraduate Research Intern
+* 2018: Undergraduate Research Intern
   * Oak Ridge National Laboratory, Environmental Science Division, Aquatic Ecology Group
   * <a href="https://education.ornl.gov/suli/" target="_blank">DOE SULI Program</a>
 
-* 2018 | Undergraduate Teaching Assistant for Civil Engineering Hydraulics
+* 2018: Undergraduate Teaching Assistant for Civil Engineering Hydraulics
   * Auburn University, Civil & Environmental Engineering
 
-* 2018 | NSF REU Researcher
+* 2018: NSF REU Researcher
   * Texas A&M University
   * <a href="https://costaricareu.tamu.edu/" target="_blank">Program title: Ecohydrology of Tropical Montane Forests – Diversity in Science, Interdisciplinary Breadth, and Global Awareness</a>
 
-* 2017 | Undergraduate Research Assistant
+* 2017: Undergraduate Research Assistant
   * Auburn University, Civil & Environmental Engineering
  
-* 2017 | Engineer Intern
+* 2017: Engineer Intern
   * U.S. Army Corps of Engineers, Fort Carson South Resident Office, Colorado Springs, CO
  
-* 2016 | Undergraduate Research Assistant
+* 2016: Undergraduate Research Assistant
   * Auburn University, Civil & Environmental Engineering, Stormwater Research Facility
  
-* 2016 | Undergraduate Assistant
+* 2016: Undergraduate Assistant
   * Auburn University, Academic Initiatives
  
-* 2015 | Student Laboratory Assistant
+* 2015: Student Laboratory Assistant
   * USDA ARS National Soil Dynamics Laboratory, Auburn, AL
   
 Skills
