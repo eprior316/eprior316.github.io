@@ -6,5 +6,5 @@ permalink: /talks/2024-12-01-agu-swot-friction
 venue: "AGU Fall Meeting"
 date: 2024-12-09
 location: "Washington DC, USA"
-[View abstract on NASA ADS](https://ui.adsabs.harvard.edu/abs/2024AGUFMH21J.0781P/abstract)
 ---
+[View abstract on NASA ADS](https://ui.adsabs.harvard.edu/abs/2024AGUFMH21J.0781P/abstract)
