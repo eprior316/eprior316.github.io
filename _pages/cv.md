@@ -142,9 +142,9 @@ Data Publications
 Talks
 ======
 * **E.M. Prior**, R.P.M. Frasson, C.H. David, M.T. Durand (2024). “Informing river discharge friction from SWOT observations”. Poster Presentation. AGU Fall Meeting. [H006](https://ui.adsabs.harvard.edu/abs/2024AGUFMH21J.0781P/abstract){:target="_blank" rel="noopener noreferrer"}
-  •	Best student presentation award from the AGU Remote Sensing Technical Committee
+  * Best student presentation award from the AGU Remote Sensing Technical Committee
 * **E.M. Prior**, J.B. Sankey, J.J. Caster, A. Kasprak (2024). “Grand Canyon Dunefields Downstream of Glen Canyon Dam and Lake Powell Reservoir”. Poster Presentation. AGU 2024 Fall Meeting. [EP008](https://ui.adsabs.harvard.edu/abs/2024AGUFMEP51E1404P/abstract){:target="_blank" rel="noopener noreferrer"}
-* **E.M. Prior**, R.P.M. Frasson, C.H. David, M.T. Durand (2024). “How can friction be bettered modeled in the context of SWOT measurements?”. Poster Presentation. SWOT Science Team Meeting
+* **E.M. Prior**, R.P.M. Frasson, C.H. David, M.T. Durand (2024). “How can friction be bettered modeled in the context of SWOT measurements?”. Poster Presentation. SWOT Science Team Meeting.
 * **E.M. Prior**, N. Michaelson, J.A. Czuba, T.J. Pingel, V.A. Thomas, W.C. Hession (2023). “Lidar DEM resolution modifies roughness in 2D hydrodynamic models”. Poster Presentation. AGU 2023 Fall Meeting. [H110-1464](https://ui.adsabs.harvard.edu/abs/2023AGUFM.H11O1464P/abstract){:target="_blank" rel="noopener noreferrer"}
 * **E.M. Prior**, A.L. Ritz, Y.C. Kobayashi, A.O. Campos. E. Benami, M. Foster-Martinez, C.R. Esposito (2023). “Not so distinct: the dynamic nature of wetland building from Neptune Pass in the lowermost Mississippi River”. Oral Presentation. AGU 2023 Fall Meeting. [EP31B-07](https://ui.adsabs.harvard.edu/abs/2023AGUFMEP31B..07P/abstract){:target="_blank" rel="noopener noreferrer"}
 * **E.M. Prior**, A.L. Ritz, Y.C. Kobayashi, A.O. Campos. E. Benami, M. Foster-Martinez, C.R. Esposito (2023). “Straying from the Mississippi River: A Case Study on Avulsion at Neptune Pass”. Oral Presentation. [State of the Coast](https://www.stateofthecoast.org/wp-content/uploads/2023/07/Sessions-and-Abstracts-Individual-1.pdf){:target="_blank" rel="noopener noreferrer"}.
