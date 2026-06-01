@@ -14,4 +14,5 @@ My research uses satellite, airborne, and drone-based observations to investigat
 
 As part of the [Re-Analysis of Water for Society (RAWS) project](https://news.vt.edu/articles/2026/03/eng-cee-global-freshwater.html){:target="_blank" rel="noopener noreferrer"} funded through [Schmidt Sciences](https://www.schmidtsciences.org/schmidt-sciences-awards-33-million-to-create-comprehensive-account-of-global-freshwater-availability/){:target="_blank" rel="noopener noreferrer"}, I contribute to efforts to build a comprehensive record of global freshwater systems and improve our understanding of how climate change and human activities are reshaping water resources around the world. Previously, I collaborated on externally funded research with teams at NASA Jet Propulsion Laboratory, the U.S. Geological Survey, and Los Alamos National Laboratory.
 Ultimately, I am passionate about translating complex geospatial and environmental data into actionable insights that support science, conservation, and water resource decision-making.
+
 ------
