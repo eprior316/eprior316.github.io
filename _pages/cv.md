@@ -119,7 +119,6 @@ Skills
 Manuscripts in Progress
 ======
 * Under review: **E.M. Prior**, J.B. Sankey, J.J. Caster, A. Kasprak. Relating canyon physiography, climate, and aeolian-fluvial interactions with the occurrence and size of aeolian dunefields along the Colorado River in the Grand Canyon. *Earth and Space Science*.
-* Under review: Y. Zhang, M.T. Durand, S.P. Coss, R.P.M. Frasson, **E.M. Prior**, C.J. Gleason. Exploring the Effect of River Spatial Variability on SWOT Discharge Accuracy. *Advances in Water Resources*. [Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6190679){:target="_blank" rel="noopener noreferrer"}.
 * In preparation: **E.M. Prior**, R.P.M. Frasson, C.H. David, Y. Zhang, S.P. Coss, M.T. Durand. Assessment of Flow Law Performance for SWOT-Derived River Discharge Against Gage Observations Across Diverse River Types. Submitting to *Water Resources Research*.
 
 Publications
