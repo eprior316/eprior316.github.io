@@ -77,6 +77,8 @@ Work Experience
 Funding & Awards
 ======
 **Over $320,000** successfully funded grants, awards, and scholarships (internal, state, federal, and NGO) for my research and professional development
+* Northeast Climate Adaptation Science Center ([NE CASC](https://necasc.umass.edu/index%2ephp/about/fellows-program){:target="_blank" rel="noopener noreferrer"}) Graduate Fellows Program, U.S. Geological Survey & University of Massachusetts Amherst — 2026–2027
+  * Selected as a ([NE CASC](https://necasc.umass.edu/index%2ephp/about/fellows-program){:target="_blank" rel="noopener noreferrer"}) Fellow to participate in a year-long interdisciplinary program focused on climate adaptation science, collaboration, and translating research into actionable information for decision makers.
 * Outstanding PhD Student, Virginia Tech Biological Systems Engineering Department – awarded 2023
 * National Science Foundation (NSF) Non-Academic Research Internships for Graduate Students (INTERN) grant, NSF ([more information](https://www.nsf.gov/tip/intern){:target="_blank" rel="noopener noreferrer"}), $102,000 – awarded 2023
   * Funded my research at NASA & USGS
