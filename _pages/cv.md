@@ -136,7 +136,7 @@ White Paper Publications
 
 Data Publications
 ======
-* **E.M. Prior**, J.B. Sankey, J.J. Caster. Environmental data at source-bordering aeolian dunefields in the Grand Canyon Dune Atlas: U.S. Geological Survey data release. [https://doi.org/10.5066/P14VEMDV](https://doi.org/10.5066/P14VEMDV){:target="_blank" rel="noopener noreferrer"}
+* **E.M. Prior**, J.B. Sankey, J.J. Caster. Environmental data at source-bordering aeolian dunefields in the Grand Canyon Dune Atlas: U.S. Geological Survey data release. [https://doi.org/10.5066/P14VEMDV](https://doi.org/10.5066/P14VEMDV){:target="_blank" rel="noopener noreferrer"}.
 * J.B. Sankey, J. Caster, **E.M. Prior**, L.E. Durning, N. Bransky. (2025). Grand Canyon Dune Atlas: U.S. Geological Survey data release. [https://doi.org/10.5066/P1Y6N5AC](https://doi.org/10.5066/P1Y6N5AC){:target="_blank" rel="noopener noreferrer"}.
 * W.C. Hession, L. Lehmann, T.J. Pingel, J.A. Czuba, **E.M. Prior**, N.D. Christensen, Y.C. Kobayashi, J.P. Resop. (2023). Virginia Tech StREAM Lab Winter 2021 Drone Lidar Survey. Distributed by OpenTopography. [https://doi.org/10.5069/G9348HK3](https://doi.org/10.5069/G9348HK3){:target="_blank" rel="noopener noreferrer"}.
 * **E.M. Prior**, J. Schwenk, J. Rowland (2022): VotE-Dams: a compilation of global dams' locations and attributes (v1). A Global, High-Resolution River Network Model for Improved Flood Risk Prediction, ESS-DIVE repository. Dataset. [https://doi.org/10.15485/1843541](https://doi.org/10.15485/1843541){:target="_blank" rel="noopener noreferrer"}.
