@@ -24,21 +24,25 @@ Education
 
 Work Experience
 ======
-* 05/2026 - present: Postdoctoral associate
+* 05/2026 - present: Postdoctoral Associate
   * Virginia Tech, Civil & Environmental Engineering
 
 * 2019 - 2025: Graduate Research Assistant
   * Virginia Tech, Biological Systems Engineering
 
 * 2019 - 2025: Ph.D. Research Fellow
-  * Virginia Tech, Interdisciplinary Graduate Education Program in Remote Sensing
+  * Virginia Tech, <a href="https://rsigep.frec.vt.edu/index.html" target="_blank">Interdisciplinary Graduate Education Program in Remote Sensing</a>
 
 * 2020 - 2025: <a href="https://www.nsfgrfp.org/" target="_blank">NSF GRFP</a> Fellow
   * Virginia Tech, Biological Systems Engineering
  
-* 2025: Ph.D. Research Intern
+* 2024 - 2025: Ph.D. Research Intern
   * NASA Jet Propulsion Laboratory, Earth Science, <a href="https://science.jpl.nasa.gov/division/earth-science/water-and-ecosystems/" target="_blank">Water & Ecosystems Group</a>
   * Maximizing Student Potential in STEM Program
+  * Funded by <a href="https://www.nsf.gov/eng/intern" target="_blank">NSF INTERN Program</a>
+
+* 2023: Private Contractor
+  * U.S. Geological Survey, <a href="https://www.usgs.gov/centers/southwest-biological-science-center" target="_blank">Southwest Biological Science Center</a> & <a href="https://www.usgs.gov/centers/sbsc/about/gcmrc" target="_blank">Grand Canyon Monitoring and Research Center</a>, Remote sensing group
   * Funded by <a href="https://www.nsf.gov/eng/intern" target="_blank">NSF INTERN Program</a>
 
 * 2021: Ph.D. Research Intern
