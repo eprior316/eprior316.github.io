@@ -47,14 +47,14 @@ Work Experience
 
 * 2021: Ph.D. Research Intern
   * Los Alamos National Laboratory, Earth and Environmental Sciences Division
-  * <a href="https://education.ornl.gov/suli/" target="_blank">DOE SULI Program</a>
+  * Funded by <a href="https://education.ornl.gov/suli/" target="_blank">DOE SULI Program</a>
 
 * 2019: Undergraduate Research Fellow
   * Auburn University, Office of Undergraduate Research
  
 * 2018: Undergraduate Research Intern
   * Oak Ridge National Laboratory, Environmental Science Division, Aquatic Ecology Group
-  * <a href="https://education.ornl.gov/suli/" target="_blank">DOE SULI Program</a>
+  * Funded by <a href="https://education.ornl.gov/suli/" target="_blank">DOE SULI Program</a>
 
 * 2018: Undergraduate Teaching Assistant for Civil Engineering Hydraulics
   * Auburn University, Civil & Environmental Engineering
@@ -126,7 +126,7 @@ Manuscripts in Progress
 ======
 * Under review: **E.M. Prior**, J.B. Sankey, J.J. Caster, A. Kasprak. Relating canyon physiography, climate, and aeolian-fluvial interactions with the occurrence and size of aeolian dunefields along the Colorado River in the Grand Canyon. *Earth and Space Science*.
 * Under review: R.A. McManamay, **E.M. Prior**, K.P. Garrett, L.T. Sweet-Breu, A.E. Corry-Roberts. North American inventory of fish passage and barrier permeability at dams to support river connectivity studies. *Scientific Data*.
-* In preparation: **E.M. Prior**, R.P.M. Frasson, C.H. David, Y. Zhang, S.P. Coss, M.T. Durand. Assessment of Flow Law Performance for SWOT-Derived River Discharge Against Gage Observations Across Diverse River Types. Submitting to *Water Resources Research*.
+* Under review: **E.M. Prior**, R.P.M. Frasson, C.H. David, Y. Zhang, S.P. Coss, M.T. Durand. Assessment of Flow Law Performance for SWOT-Derived River Discharge Against Gage Observations Across Diverse River Types. Submitting to *Water Resources Research*.
 
 Publications
 ======
