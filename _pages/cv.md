@@ -145,7 +145,7 @@ Data Publications
 * W.C. Hession, L. Lehmann, T.J. Pingel, J.A. Czuba, **E.M. Prior**, N.D. Christensen, Y.C. Kobayashi, J.P. Resop. (2023). Virginia Tech StREAM Lab Winter 2021 Drone Lidar Survey. Distributed by OpenTopography. [https://doi.org/10.5069/G9348HK3](https://doi.org/10.5069/G9348HK3){:target="_blank" rel="noopener noreferrer"}.
 * **E.M. Prior**, J. Schwenk, J. Rowland. (2022). VotE-Dams: a compilation of global dams' locations and attributes (v1). A Global, High-Resolution River Network Model for Improved Flood Risk Prediction, ESS-DIVE repository. Dataset. [https://doi.org/10.15485/1843541](https://doi.org/10.15485/1843541){:target="_blank" rel="noopener noreferrer"}.
 
-Talks
+Presentations
 ======
 * **E.M. Prior**, R.P.M. Frasson, C.H. David, M.T. Durand (2024). “Informing river discharge friction from SWOT observations”. Poster Presentation. AGU Fall Meeting. [H006](https://ui.adsabs.harvard.edu/abs/2024AGUFMH21J.0781P/abstract){:target="_blank" rel="noopener noreferrer"}
   * Best student presentation award from the AGU Remote Sensing Technical Committee
